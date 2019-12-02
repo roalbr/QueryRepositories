@@ -1,0 +1,6 @@
+framework module Pods_QueryRepositories_QueryRepositoriesUITests {
+  umbrella header "Pods-QueryRepositories-QueryRepositoriesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

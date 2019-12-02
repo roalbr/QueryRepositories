@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FFC14022-5A27-4E26-BAF6-43A66EF41579"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19B6922E-8B98-4084-A07B-DB398F034296"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QueryRepositories/Service/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getTopRepositories(page:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "19B6922E-8B98-4084-A07B-DB398F034296 - cc3b062f01d40d7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QueryRepositories.Service.getTopRepositories(page: Swift.Int, completionHandler: (Alamofire.DataResponse&lt;QueryRepositories.RepositoriesResponse, Alamofire.AFError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "QueryRepositories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoalbuquerque/iosDev/QueryRepositories/QueryRepositories/Service/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "778">
+               </Location>
+               <Location
+                  uuid = "19B6922E-8B98-4084-A07B-DB398F034296 - 7dabe11600c4e0ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;QueryRepositories.RepositoriesResponse, Alamofire.AFError&gt;) -&gt; () in QueryRepositories.Service.getTopRepositories(page: Swift.Int, completionHandler: (Alamofire.DataResponse&lt;QueryRepositories.RepositoriesResponse, Alamofire.AFError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "QueryRepositories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoalbuquerque/iosDev/QueryRepositories/QueryRepositories/Service/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1E5A4DA-B98C-4C8B-AACA-E473D36180BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QueryRepositories/ViewModel/RepositoriesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loadData(page:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F83ABF1-9D1F-426E-A236-6FD18D8D1185"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QueryRepositories/Model/RepositorieOwner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "mapping(map:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3B6897B-4500-4A63-ABC0-EB624BA57EB7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QueryRepositories/Model/RepositoriesResponse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "mapping(map:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FA1736D-2F0F-4620-A5E8-80B1C7AABAB3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QueryRepositories/ViewModel/RepositoriesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "loadData(page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7FA1736D-2F0F-4620-A5E8-80B1C7AABAB3 - d6a16c200d24923d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QueryRepositories.RepositoriesListViewModel.loadData(page: Swift.Int) -&gt; ()"
+                  moduleName = "QueryRepositories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoalbuquerque/iosDev/QueryRepositories/QueryRepositories/ViewModel/RepositoriesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "7FA1736D-2F0F-4620-A5E8-80B1C7AABAB3 - eefbc5978d91a0f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;QueryRepositories.RepositoriesResponse, Alamofire.AFError&gt;) -&gt; () in QueryRepositories.RepositoriesListViewModel.loadData(page: Swift.Int) -&gt; ()"
+                  moduleName = "QueryRepositories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoalbuquerque/iosDev/QueryRepositories/QueryRepositories/ViewModel/RepositoriesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "283">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C51341C-E9CD-4C71-98D8-626B1A27F14F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QueryRepositories/Utils/ImageUtil.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "downloaded(url:contentMode:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C51341C-E9CD-4C71-98D8-626B1A27F14F - 196d45ff49592d93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in QueryRepositories):__C.UIImageView.downloaded(url: Foundation.URL, contentMode: __C.UIViewContentMode) -&gt; ()"
+                  moduleName = "QueryRepositories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoalbuquerque/iosDev/QueryRepositories/QueryRepositories/Utils/ImageUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "3C51341C-E9CD-4C71-98D8-626B1A27F14F - 46bdbc890e6191e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in (extension in QueryRepositories):__C.UIImageView.downloaded(url: Foundation.URL, contentMode: __C.UIViewContentMode) -&gt; ()"
+                  moduleName = "QueryRepositories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoalbuquerque/iosDev/QueryRepositories/QueryRepositories/Utils/ImageUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B416881-371F-4274-908B-5D48DC5ECF4A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QueryRepositories/Controller/RepositoriesListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "RepositoriesListController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "4B416881-371F-4274-908B-5D48DC5ECF4A - 8cc736527005b9bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QueryRepositories.RepositoriesListController.tableView.getter : __C.UITableView"
+                  moduleName = "QueryRepositories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoalbuquerque/iosDev/QueryRepositories/QueryRepositories/Controller/RepositoriesListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "4B416881-371F-4274-908B-5D48DC5ECF4A - bb7b37a9ea20cdc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QueryRepositories.RepositoriesListController.tableView.setter : __C.UITableView"
+                  moduleName = "QueryRepositories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoalbuquerque/iosDev/QueryRepositories/QueryRepositories/Controller/RepositoriesListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "4B416881-371F-4274-908B-5D48DC5ECF4A - abbfcf37fb0702bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QueryRepositories.RepositoriesListController.tableView.modify : __C.UITableView"
+                  moduleName = "QueryRepositories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoalbuquerque/iosDev/QueryRepositories/QueryRepositories/Controller/RepositoriesListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "4B416881-371F-4274-908B-5D48DC5ECF4A - c7d33f98a1e64309"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QueryRepositories.RepositoriesListController.tableView.modify : __C.UITableView with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "QueryRepositories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoalbuquerque/iosDev/QueryRepositories/QueryRepositories/Controller/RepositoriesListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "4B416881-371F-4274-908B-5D48DC5ECF4A - f9a0cffa2a8c3428"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QueryRepositories.RepositoriesListController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; QueryRepositories.RepositoriesListController"
+                  moduleName = "QueryRepositories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoalbuquerque/iosDev/QueryRepositories/QueryRepositories/Controller/RepositoriesListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "189">
+               </Location>
+               <Location
+                  uuid = "4B416881-371F-4274-908B-5D48DC5ECF4A - ae5de3f26a83bc30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QueryRepositories.RepositoriesListController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;QueryRepositories.RepositoriesListController&gt;"
+                  moduleName = "QueryRepositories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoalbuquerque/iosDev/QueryRepositories/QueryRepositories/Controller/RepositoriesListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4338A97-7E99-4E54-9FF9-3338EB9DEC9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QueryRepositories/Controller/RepositoriesListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "loadRefresh()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E379140A-A440-4650-8B71-0CD2A3DF9494"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QueryRepositories/Controller/RepositoriesListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "loadTable()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8E9141B-B00F-4FF2-9033-E882CD0039A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QueryRepositories/Controller/RepositoriesListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
